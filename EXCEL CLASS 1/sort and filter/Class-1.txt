@@ -1,0 +1,32 @@
+1. What is Excel?
+   
+   Excel is the world's most widely used spreadsheet program and it is a part of Microsoft office suite. 
+   Excel is used to perform analysis like - a) Numerical calculations
+			                    b) Non-numeric applications (Character/strings, Date values)
+			                    c) Creating Charts
+					    d) Creating Graphicalrepresentation
+					    e) Accessing other data
+
+2. Familiar with Excel Environment. Basic stuffs of Excel window.
+   a) Bars
+   b) Workbook
+   c) Worksheets
+   d) Cells/Range
+   e) Tabs
+
+3. Sorting
+
+4. Filtering
+
+5. Outline - Outlining a data makes our data easier to view. Grouping and outlining is extremely useful in industry for
+             making large tables more manageable in size and apperance but for the sake of simplicity.
+
+       a) Automatic (Auto outline)
+       b) Manual (Grouping)
+
+
+Rows: 2**20 (1048576)
+Columns: 2**16 (16384)
+
+
+
